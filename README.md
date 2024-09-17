@@ -1,6 +1,7 @@
-# Starting point for DESN 3035 Exercise 2
+# Starting point for DESN 3035 Exercise 3
 
-> Welcome to your first day here!
-> I've set up a simple React project here. Do you think you can install Bootstrap as that's what our front-end developers are familiar with?
-> You can also take a couple of minutes to explore some packages we can use for 1) mapping, 2) media player, and 2) data visualization.
-> You can use duplicate this repo as a starting point.
+> Glad to have you with us!
+
+> Take a look at the `content.tsx` file where we have a simple list of countries. Do you think you can set up and connect an external database so that this list is not hard coded? I hear Supabase (https://supabase.com/) is perfect for this type of work.
+
+> When you are done, please submit a PR (pull request) back to this repo and I can review it.
